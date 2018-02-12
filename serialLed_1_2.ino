@@ -6,7 +6,7 @@
  *  server_ip is the IP address of the ESP8266 module, will be 
  *  printed to Serial when the module is connected.
  */
-
+//protype change
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h>
 
