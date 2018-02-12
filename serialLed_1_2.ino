@@ -9,7 +9,7 @@
 
 #include <ESP8266WiFi.h>
 #include <SoftwareSerial.h>
-
+//master prototype
 SoftwareSerial swSer(13, 14);
 /* Set these to your desired credentials. */
 const char *ssid = "Ledserial";
